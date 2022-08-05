@@ -59,7 +59,7 @@ function multiplica(x, y) {
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  
+  x/ y === null;
 }
 
 function sonIguales(x, y) {
