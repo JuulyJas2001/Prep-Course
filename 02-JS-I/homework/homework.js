@@ -101,11 +101,12 @@ function obtenerResto(x, y) {
   x%y === null ;
 }
 
-function esPar(num) {
+function esPar(num) { 
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+  if ((num%2)===0)
+true
 }
 
 function esImpar(num) {
