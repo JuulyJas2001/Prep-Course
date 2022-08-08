@@ -1,0 +1,27 @@
+/*Variables
+
+//Una variable es un valor al que le declaramos un nombre determinado"
+//que pueda ser no solo entendido por el creador del codigo
+//sino por cualquier programador que lo lea."
+//Por ejemplo variable= Primer Nombre
+//Primer Nombre="Juliana"
+
+
+//*Strings
+
+//Es un codigo unido (concatenado)  de  caracteres.
+ //Estos se utilizan para representar los caracteres de forma Textual .
+// Por ejemplo "1" + "1" = 11
+
+//*Funciones
+//Las funciones ejecutan un codigo para usarlo mas adelante. Evitan repetir 
+//codigo innecesario, haciendo que sea mas limpio y facil de interpretar.
+//Las funciones siempre retornan algo.
+//Los argumentos son las  variables de las funciones
+//*Declaraciones
+//Scope: es el alcance que puede tener una variable. Puede definirse de manera global o local.
+//Return: devuelve el valor obtenido por la funcion. Tambien, determina el final de la función. Por lo que si se codea luego de este, la funcion no lo tomara en cuenta.
+//Valores  booleanos 
+//Son todas aquellas condiciones que responden a un Si o no. Existe el true y false. Ellas declaran si la operación es verdadera o falsa
+
+
