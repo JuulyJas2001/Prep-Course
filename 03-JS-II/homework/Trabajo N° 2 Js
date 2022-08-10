@@ -1,0 +1,8 @@
+// for : se utiliza para crear bucles y repetir una determinada cantidad de veces segun necesitemos. A diferencia del while, éste se utiliza cuando estamos
+//seguros del numero de veces que queremos que ejecute.
+
+//&&:es un operador lógico "Y", éste se utiliza para determinar si ambas condiciones son true. SI una de la condiciones es verdadera y la otra no, dará false
+
+// ||: operador lógico "o" o "or", se utiliza para determinar si una de las condiciones es true. Devuelve false si ambas expresiones son falsas
+
+// ! : operador lógico "Not" , se utiliza para contradecir una condición es decir que si una condición era true con el operador ! será false
