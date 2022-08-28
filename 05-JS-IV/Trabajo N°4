@@ -1,0 +1,9 @@
+//Objetos:  Es  un conjunto  de datos y  propiedades que poseen nombre y valor  y pueden definir características.
+ 
+// Propiedades:  son variables que acompañan al objeto  y definen sus caracteristicas.
+
+//Metodos:  Es una función  la cual es  la propiedad de un Objeto.
+
+
+//Bucles for in... Se utiliza cuando queremos repetir una cierta cantidad de veces (que ya conocemos con seguridad)  una o más instrucciones .
+// Notacion de puntos vs Corchetes :  los operadores de miembros se utilizan para  acceder a las propiedades y métodos de un objeto. Hay dos modos de acceder a estas propiedades : notación por puntos y notación por corchetes
